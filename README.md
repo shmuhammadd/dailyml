@@ -8,4 +8,4 @@ Materials and IPython notebooks for [Python for Data Analysis](https://wesmckinn
 | Days  |  Question and Answer  |
 | ------------- | ------------- |
 | 01   |  This | 
-| 02   |  [But why deep learning?](https://github.com/shmuhammad2004/dailyml.git)  |
+| 02   |  [But why deep learning?](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0001)  |
