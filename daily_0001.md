@@ -36,9 +36,13 @@ Finally, traditional computer vision methods typically rely on pre-computed feat
 
 The ability to learn powerful features is one of the main reasons for the superior performance of deep learning methods in computer vision, making the second choice the best explanation for Martin's friend.
 
-Recommended reading
+## Recommended reading
 
-Here is an introduction to ["Convolutional Neural Networks"](https://en.wikipedia.org/wiki/Convolutional_neural_network).
-And this is the introduction to ["Vision Transformers"](https://en.wikipedia.org/wiki/Vision_transformer).
-["Learned Features"](https://christophm.github.io/interpretable-ml-book/cnn-features.html) is an excellent explanation covering the features that we can learn using convolutional layers.
-Check out ["OpenAI Microscope"](https://openai.com/blog/microscope/) for a fascinating look at the visual features inside a neural network.
+
+1. Here is an introduction to ["Convolutional Neural Networks"](https://en.wikipedia.org/wiki/Convolutional_neural_network).
+
+2. And this is the introduction to ["Vision Transformers"](https://en.wikipedia.org/wiki/Vision_transformer).
+
+3. ["Learned Features"](https://christophm.github.io/interpretable-ml-book/cnn-features.html) is an excellent explanation covering the features that we can learn using convolutional layers.
+
+4. Check out ["OpenAI Microscope"](https://openai.com/blog/microscope/) for a fascinating look at the visual features inside a neural network.
