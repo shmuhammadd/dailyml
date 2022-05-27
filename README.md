@@ -7,5 +7,5 @@ Materials and IPython notebooks for [Python for Data Analysis](https://wesmckinn
 
 | Days  |  Question and Answer  |
 | ------------- | ------------- |
-| 01   |  This | 
+| 01   | [ Choosing a loss function](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0002) | 
 | 02   |  [But why deep learning?](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0001)  |
