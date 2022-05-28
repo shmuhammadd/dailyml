@@ -1,6 +1,5 @@
-g
 
-## Question: Choosing a loss function
+## Question on Loss Function: Choosing a loss function
 
 Martin met an old friend for a coffee.
 
@@ -52,3 +51,5 @@ In summary, the only correct answer to this question is the first choice.
 2.["Root-mean-square deviation"](https://en.wikipedia.org/wiki/Root-mean-square_deviation) is the Wikipedia page covering RMSE.
 3. [Mean absolute error"](https://en.wikipedia.org/wiki/Mean_absolute_error) is the Wikipedia page covering MAE.
 4. [MAE and RMSE which is better?](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d)
+5. [MAE vs RSME](http://www.eumetrain.org/data/4/451/english/msg/ver_cont_var/uos3/uos3_ko1.htm)
+
