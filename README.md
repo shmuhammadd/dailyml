@@ -7,7 +7,7 @@ Materials and IPython notebooks for [Python for Data Analysis](https://wesmckinn
 
 | Days  |  Question and Answer  |
 | ------------- | ------------- |
-| 01   | [ Choosing a loss function](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0002) | 
+| 01   | [ Choosing a loss function](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0001.md) | 
 | 02   |  [But why deep learning?](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0001)  |
 | 03   |  [Question on Momentum: Rolling down the hill?](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0003)  |
 | 04  |  [Choosing Metrics for Imbalance Dataset: Chosing Wrong Metrics](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0004)  |
