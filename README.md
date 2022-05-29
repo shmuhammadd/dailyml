@@ -1,8 +1,15 @@
 
 # Daily ML Questions 
 
-Materials and IPython notebooks for [Python for Data Analysis](https://wesmckinney.com/book/python-basics.html) study session at Arewa Data Science Group
-****
+I am a big fan of atomic habit.
+
+I attempt to answer daily machine learning question from [bnomial](https://today.bnomial.com): one machine learning question every day. 
+In this daily post, you will find:
+
+
+1. One question per day
+2. Review of related concept I do everyday before I attempt a question 
+3. Answer and review of answers from the bnomial.
 
 
 | Days  |  Question and Answer  |
