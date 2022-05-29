@@ -104,7 +104,20 @@ The imbalance can be either slight imbalance (e.g 4:6) or severe imbalance(e.g 1
 
 > Most of the contemporary works in class imbalance concentrate on imbalance ratios ranging from 1:4 up to 1:100. […] In real-life applications such as fraud detection or cheminformatics we may deal with problems with imbalance ratio ranging from 1:1000 up to 1:5000.
 
-### Working with Imbalanced Dataa
+### Dealing with Imbalance classes in dataset
+
+
+https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+
+
+https://www.kaggle.com/code/manishkc06/dealing-with-imbalanced-class/notebook
+
+https://www.kaggle.com/code/shahules/tackling-class-imbalance/notebook
+
+https://www.kaggle.com/code/tboyle10/methods-for-dealing-with-imbalanced-data/notebook
+
+
+Working with Imbalanced Dataa
 
 In imbalance classification setting, minority class is of interest and harder to predict. Therefore model's skill to predict correct class for the minority is more important than the majority class. 
 
