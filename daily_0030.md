@@ -26,4 +26,5 @@ While the network deals with pixels early on, the deeper we go into it, the more
 ## Recommended reading
 
 1. ["But what is a neural network?"](https://www.youtube.com/watch?v=aircAruvnKk) is Grant Sanderson's introduction to neural networks on YouTube. Highly recommended!
-• [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) is a free online book written by Michael Nielsen.
+
+2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) is a free online book written by Michael Nielsen.
