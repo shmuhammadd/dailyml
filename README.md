@@ -1,9 +1,8 @@
 
 # Daily ML Questions 
 
-I am a big fan of atomic habit.
+After I read the book [Atomic Habit](https://jamesclear.com/atomic-habits), I became a big fan of the book. Here, I attempt to answer daily machine learning question from [bnomial](https://today.bnomial.com): one machine learning question every day. 
 
-I attempt to answer daily machine learning question from [bnomial](https://today.bnomial.com): one machine learning question every day. 
 In this daily post, you will find:
 
 
