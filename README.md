@@ -17,6 +17,7 @@ In this daily post, you will find:
 | 02   |  [But why deep learning?](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0002.md)  |
 | 03   |  [Question on Momentum: Rolling down the hill?](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0003.md)  |
 | 04  |  [Choosing Metrics for Imbalance Dataset: Chosing Wrong Metrics](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0004.md)  |
-| 05  | [Complexity of Neural Networks Layers](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0004.md)  |
-| 06  | [Euclidean distance](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0005.md)  |
+| 05  | [Complexity of Neural Networks Layers](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0005.md)  |
+| 06  | [A classifier nobody saw coming](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0006.md)  |
+****
 ****
