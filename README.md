@@ -19,5 +19,6 @@ In this daily post, you will find:
 | 04  |  [Choosing Metrics for Imbalance Dataset: Chosing Wrong Metrics](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0004.md)  |
 | 05  | [Complexity of Neural Networks Layers](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0005.md)  |
 | 06  | [A classifier nobody saw coming](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0006.md)  |
-****
+| 06  | [Tensors and trolls](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0007.md)  |
+
 ****
