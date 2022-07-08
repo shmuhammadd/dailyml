@@ -21,5 +21,6 @@ In this daily post, you will find:
 | 06  | [A classifier nobody saw coming](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0006.md)  |
 | 07  | [Tensors and trolls](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0007.md)  |
 | 08  | [On Decision Tree](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0008.md)  |
+| 08  | [On Decision Tree](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0009.md)  |
 
 ****
