@@ -25,6 +25,8 @@ In this daily post, you will find:
 | 10  | [Pictures and tensors](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0010.md)  |
 | 11  | [Evaluating object detection](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0011.md)  |
 | 12  | [Illegitimate traffic](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0012.md)  |
+| 13  | [Data Split](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0013.md)  |
+
 
 ****
 
