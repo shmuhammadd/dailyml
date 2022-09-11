@@ -26,6 +26,7 @@ In this daily post, you will find:
 | 11  | [Evaluating object detection](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0011.md)  |
 | 12  | [Illegitimate traffic](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0012.md)  |
 | 13  | [Data Split](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0013.md)  |
+| 14  | [On Precents and Recall](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0014.md)  |
 
 
 ****
