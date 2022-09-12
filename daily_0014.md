@@ -34,3 +34,5 @@ Summer should focus on the recall of her model while keeping an eye on its preci
 1. Check ["When accuracy doesn't help"](https://articles.bnomial.com/when-accuracy-doesnt-help) for an introduction to precision, recall, and f1-score metrics to measure a machine learning model's performance.
 
 2. Check ["Confusion Matrix"](https://articles.bnomial.com/confusion-matrix) for a full explanation of how a confusion matrix works and how you can use them as part of your work.
+
+4. [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
