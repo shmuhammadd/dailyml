@@ -30,7 +30,7 @@ In this daily post, you will find:
 | 15  | [Imbalance Metrics ](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0015.md)  |
 
 | 16  | [Bagging](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0016.md)  |
-
+| 17  | [True Positive](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0017.md)  |
 
 
 ****
