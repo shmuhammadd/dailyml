@@ -21,7 +21,7 @@ In this daily post, you will find:
 | 06  | [A classifier nobody saw coming](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0006.md)  |
 | 07  | [Tensors and trolls](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0007.md)  |
 | 08  | [On Decision Tree](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0008.md)  |
-| 09  | [On Decision Tree](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0009.md)  |
+| 09  | [What model is she using](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0009.md)  |
 | 10  | [Pictures and tensors](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0010.md)  |
 | 11  | [Evaluating object detection](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0011.md)  |
 | 12  | [Illegitimate traffic](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0012.md)  |
