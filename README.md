@@ -29,13 +29,11 @@ In this daily post, you will find:
 | 14  | [On Precents and Recall](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0014.md)  |
 | 15  | [Imbalance Metrics ](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0015.md)|
 | 16  | [Bagging](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0016.md)  |
-| 17  | [True Positive](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0017.md)  |
-| 18  | [The gradient of a function
-](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0018.md)  |
+| 17  |[True Positive](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0017.md) |
+| 18  | [The gradient of a function](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0018.md) |
 
 ****
 
-****
 
 
 
