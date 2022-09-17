@@ -31,6 +31,8 @@ In this daily post, you will find:
 | 16  | [Bagging](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0016.md)  |
 | 17  |[True Positive](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0017.md) |
 | 18  | [The gradient of a function](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0018.md) |
+| 18  | [Output activation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0019.md) |
+
 
 ****
 
