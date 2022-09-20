@@ -32,7 +32,11 @@ In this daily post, you will find:
 | 17  |[True Positive](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0017.md) |
 | 18  | [The gradient of a function](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0018.md) |
 | 19  | [Output activation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0019.md) |
-| 19  | [ On positive feedback loop](https://github.com/shmuhammad2004/dailyml/blob/main/daily_00120.md) |
+| 20  | [Policing crime](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0020.md) |
+| 21  | [ On Data Augumentation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0021.md) |
+
+
+
 
 
 ****
