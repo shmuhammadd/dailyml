@@ -34,6 +34,8 @@ In this daily post, you will find:
 | 19  | [Output activation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0019.md) |
 | 20  | [Policing crime](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0020.md) |
 | 21  | [ On Data Augumentation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0021.md) |
+| 22  | [ Still On Data Augumentation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0022.md) |
+
 
 
 
