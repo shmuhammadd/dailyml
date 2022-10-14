@@ -33,16 +33,7 @@ In this daily post, you will find:
 | 18  | [The gradient of a function](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0018.md) |
 | 19  | [Output activation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0019.md) |
 | 20  | [Policing crime](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0020.md) |
-| 21  | [ On Data Augumentation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0021.md) |
+| 21  | [ On Data Augumentation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0021.md)|
 | 22  | [ Still On Data Augumentation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0022.md) |
-
-
-
-
-
-
-****
-
-
-
+| 23  | [ Still On Data Augumentation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0023.md)|
 
