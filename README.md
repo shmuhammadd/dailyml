@@ -36,4 +36,6 @@ In this daily post, you will find:
 | 21  | [ On Data Augumentation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0021.md)|
 | 22  | [ Still On Data Augumentation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0022.md) |
 | 23  | [ Still On Data Augumentation](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0023.md)|
+| 24 | [ Active Learning](https://github.com/shmuhammad2004/dailyml/blob/main/daily_0023.md)|
+
 
