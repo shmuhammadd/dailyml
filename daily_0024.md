@@ -19,8 +19,10 @@ What's your opinion about this situation?
 
 - They will never achieve the maximum possible performance without using the entire dataset.
 
-
 ## Answer
+
+> With active learning, we can build a model that will achieve better performance with fewer labeled samples by allowing the algorithm to choose the data that will provide the most information to its training process.
+
 
 Claire and Phil do not need to use the entire dataset to build a model that reaches its maximum possible performance. However, they will need a smart strategy to select the data they need to label.
 
